@@ -46,10 +46,6 @@ This structure allows leveraging the strengths of both architectural models to e
 - **Admin**: Interface to upload movies, manage theatre owners, and oversee application settings.
 - **Theatre Owners**: Interface to add theatres and manage shows after receiving admin approval.
 
-## Application Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
-
 ### Architecture Style
 
 Flickfix adopts a hybrid architecture style in software design, blending elements from various architectural styles. This approach leverages the strengths of each style while mitigating their limitations.
